@@ -9,5 +9,5 @@ class Pessoa
 }
 
 $naylson = new Pessoa();
-$naylson->nome = "Naylson Costa";
+$naylson->nome = "Naylson Costa!";
 echo $naylson->falar();
